@@ -1,6 +1,6 @@
 # statistical-analysis
 
-Dewcriptive Statistics 
+Descriptive Statistics 
 Creating a series of descriptive visuals that will result in the eventual formation of a proactive 
 Statistical Data Alarm that will help inform the engineers when they should take a look at Surjek’s Pump Performance.
 
